@@ -11,8 +11,6 @@
 <br>
 💻 I may know one or zero thing about computers.
 
-👀 visitors:
-
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FNitram-02%2FNitram-02&labelColor=%231ea0a0&countColor=%23262626)
 
 <!--- Nitram-02/Nitram-02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
