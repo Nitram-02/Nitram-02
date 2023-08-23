@@ -12,8 +12,8 @@
 💻 I may know one or zero thing about computers.
 
 👀 visitors:
-<div id="sfc6qpsnzzpzqtrks42awga81pzl8jd2gb4"></div>
-<noscript><a href="https://www.freecounterstat.com" title="free page counters"><img src="https://counter2.optistats.ovh/private/freecounterstat.php?c=6qpsnzzpzqtrks42awga81pzl8jd2gb4" border="0" title="free page counters" alt="free page counters"></a></noscript>
+<div id="sfcp84exufnybhugd8kxg6yt22w5ekmxsax"></div>
+<noscript><a href="https://www.freecounterstat.com" title="website counter"><img src="https://counter2.optistats.ovh/private/freecounterstat.php?c=p84exufnybhugd8kxg6yt22w5ekmxsax" border="0" title="website counter" alt="website counter"></a></noscript>
 
 
 <!--- Nitram-02/Nitram-02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
